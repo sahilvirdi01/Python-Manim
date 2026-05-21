@@ -32,7 +32,7 @@ pip install manim
 ### Windows Users
 I highly prefer Windows user to use **WSL** (Windows Subsystem for Linux) for Manim
 
-[Know More About WSL ](/wsl) 
+[Know More About WSL ](/docs/what-is-wsl.md) 
 
 #### WSL Setup
 Requirements :  
