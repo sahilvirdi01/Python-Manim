@@ -1,0 +1,32 @@
+# Manim Render Outputs
+/media/
+/videos/
+/images/
+*.mp4
+*.gif
+*.svg
+*.png
+
+# Manim Caching
+/partial_movie_files/
+/texts/
+.cache
+__pycache__/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Environment and Data Files
+.env
+.venv
+
+# IDE / Editor folders
+.vscode/
+.DS_Store
+Thumbs.db
