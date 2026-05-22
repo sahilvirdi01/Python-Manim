@@ -68,4 +68,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install manim
 ```
----
+## Gallery 
+| Animation | Code | Preview |
+|-----------|------|---------|
+| Hello World | [`HelloWorld.py`](/Code/hello_world.py) | ![Hello World](/output/HelloWorld.gif) |
