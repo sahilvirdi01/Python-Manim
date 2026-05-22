@@ -1,0 +1,3 @@
+{
+    "FirstScene": "class FirstScene(Scene):\n    def construct(self):\n        text = Text(\"Hello, Manim!\")\n        self.play(Write(text))\n        self.wait(2)"
+}
