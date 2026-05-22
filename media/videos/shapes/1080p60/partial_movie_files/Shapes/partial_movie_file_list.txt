@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/cipher/Python-Manim/media/videos/shapes/1080p60/partial_movie_files/Shapes/2257293077_3484772030_223132457.mp4'
-file 'file:/home/cipher/Python-Manim/media/videos/shapes/1080p60/partial_movie_files/Shapes/2135761390_1432596116_598181557.mp4'
-file 'file:/home/cipher/Python-Manim/media/videos/shapes/1080p60/partial_movie_files/Shapes/2135761390_1936679523_2149638880.mp4'
-file 'file:/home/cipher/Python-Manim/media/videos/shapes/1080p60/partial_movie_files/Shapes/2135761390_1432596116_3884730611.mp4'
-file 'file:/home/cipher/Python-Manim/media/videos/shapes/1080p60/partial_movie_files/Shapes/2135761390_1684585022_2965065952.mp4'
-file 'file:/home/cipher/Python-Manim/media/videos/shapes/1080p60/partial_movie_files/Shapes/2135761390_1432596116_2133133525.mp4'
-file 'file:/home/cipher/Python-Manim/media/videos/shapes/1080p60/partial_movie_files/Shapes/2135761390_4068113412_1773374495.mp4'
