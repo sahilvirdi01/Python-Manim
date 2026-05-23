@@ -9,12 +9,12 @@ Manim - A mathematical animation engine made by 3b1b for mathematical animations
 
 
 ## Table of Contents
-* [Installations](#installations)
+* [Gallery](#gallery)
+* [Manim Installation](#installations)
     * [Linux Users](#Linux-Users)
     * [Windows Users](#Windows-Users)
 
 ## Installations
-
 ### Linux Users
 Below aee some packages we need to install to use manim as manim heavily relies on them : `Cairo`,`sox`, `Latex` and`ffmpeg` 
 
@@ -69,6 +69,7 @@ source .venv/bin/activate
 pip install manim
 ```
 ## Gallery 
+### Basic Shapes
 | Animation | Code | Preview |
 |-----------|------|---------|
 | Hello World | [`HelloWorld.py`](/Code/hello_world.py) | ![Hello World](/output/HelloWorld.gif) |
