@@ -1,7 +1,7 @@
 from manim import *
 
 
-class TransformExample(Scene):
+class Transform(Scene):
     def construct(self):
         title = Text("Transform Animation").to_edge(UP)
 
