@@ -73,7 +73,8 @@ pip install manim
 | Animation | Code | Preview |
 |-----------|------|---------|
 | Hello World | [`HelloWorld.py`](/Code/hello_world.py) | ![Hello World](/output/HelloWorld.gif) |
-| Circle | [`Circle.py`](/Code/shapes.py) | ![Hello World](/output/circle.gif) |
-| Square | [`Square.py`](/Code/shapes.py) | ![Hello World](/output/square.gif) |
-| Triangle | [`Triangle.py`](/Code/shapes.py) | ![Hello World](/output/triangle.gif) |
-| Multiple Shapes | [`Shapes.py`](/Code/shapes.py) | ![Hello World](/output/Shapes.gif) |
+| Circle | [`Circle.py`](/Code/shapes.py) | ![Circle](/output/circle.gif) |
+| Square | [`Square.py`](/Code/shapes.py) | ![Square](/output/square.gif) |
+| Triangle | [`Triangle.py`](/Code/shapes.py) | ![Triangle](/output/triangle.gif) |
+| Multiple Shapes | [`Shapes.py`](/Code/shapes.py) | ![Multiple Shapes](/output/Shapes.gif) |
+| Transform animation | [`Transform.py`](/Code/shape_Transform.py) | ![Transform](/output/Transform.gif) |
