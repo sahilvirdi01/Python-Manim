@@ -78,4 +78,8 @@ pip install manim
 | Triangle | [`Triangle.py`](/Code/shapes.py) | ![Triangle](/output/triangle.gif) |
 | Multiple Shapes | [`Shapes.py`](/Code/shapes.py) | ![Multiple Shapes](/output/Shapes.gif) |
 | Transform animation | [`Transform.py`](/Code/shape_Transform.py) | ![Transform](/output/Transform.gif) |
+
+### Mathematical animations  
+| Animation | Code | Preview |
+|-----------|------|---------|
 | Sine Wave | [`Sine wave.py`](/Code/axes.py) | ![Transform](/output/axes.gif) |
