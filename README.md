@@ -12,9 +12,9 @@ Manim - A mathematical animation engine made by 3b1b for mathematical animations
 * [Gallery](#gallery)
 * [Manim Installation](#installations)
     * [Linux Users](#Linux-Users)
-    * [Windows Users](#Windows-Users) -->
+    * [Windows Users](#Windows-Users)
 
-<!-- ## Installations
+## Installations
 ### Linux Users
 Below aee some packages we need to install to use manim as manim heavily relies on them : `Cairo`,`sox`, `Latex` and`ffmpeg` 
 
