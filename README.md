@@ -20,7 +20,7 @@ Manim - A mathematical animation engine made by 3b1b for mathematical animations
 Below aee some packages we need to install to use manim as manim heavily relies on them : `Cairo`,`sox`, `Latex` and`ffmpeg` 
 
 ```bash
-sudo apt install ffmpeg sox
+sudo apt install ffmpeg 
 sudo apt-get install libcairo2-dev libjpeg-dev libgif-dev
 sudo apt install texlive-latex-base texlive-full texlive-fonts-extra
 ```
